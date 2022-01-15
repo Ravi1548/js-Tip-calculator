@@ -1,0 +1,54 @@
+html{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+.container{
+   text-align: center;
+    background-color:azure;
+    height: 700px;
+    width: 500px;
+    position: fixed; 
+    left: 350px;
+    top: 2cm;
+    border-radius: 72px;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+
+}
+
+
+span{
+ padding-left: 10px;
+ color: fuchsia;
+}
+#tip{
+   margin: 0px;
+   padding-left: 20px;
+   color:firebrick;
+
+}
+
+  button{
+      background-color:lightseagreen;
+      color: blue;
+      height:50px;
+      width: 90px;
+      
+  }
+  .totalamount{
+      background-color: aqua;
+      margin: 0px;
+      padding-left: 20px;
+  }
+
+  .totalTip{
+      background-color:aquamarine;
+      margin: 0px;
+      padding-left: 20px;
+  }
+ 
+  input{
+      height: 20px;
+      width: 120px;
+  }
